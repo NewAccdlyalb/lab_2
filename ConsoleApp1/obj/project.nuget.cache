@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6O14S8nwzQdA0RyduLmgtntxMGZh80rUUxMjyBf+97Difukg4dLN2wjkmNrpryQmD+u6q+Sxnad9dwiomCjTEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\baguv\\Desktop\\Calc f trpo\\ConsoleApp1\\ConsoleApp1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\baguv\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
