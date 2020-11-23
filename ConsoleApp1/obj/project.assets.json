@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\baguv\\Desktop\\Calc f 2trpo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectUniqueName": "C:\\Users\\baguv\\Desktop\\Calc f trpo\\ConsoleApp1\\ConsoleApp1.csproj",
       "projectName": "ConsoleApp1",
-      "projectPath": "C:\\Users\\baguv\\Desktop\\Calc f 2trpo\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj",
+      "projectPath": "C:\\Users\\baguv\\Desktop\\Calc f trpo\\ConsoleApp1\\ConsoleApp1.csproj",
       "packagesPath": "C:\\Users\\baguv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\baguv\\Desktop\\Calc f 2trpo\\ConsoleApp1\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\baguv\\Desktop\\Calc f trpo\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\baguv\\AppData\\Roaming\\NuGet\\NuGet.Config",

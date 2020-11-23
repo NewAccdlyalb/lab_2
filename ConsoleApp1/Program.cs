@@ -21,13 +21,23 @@ namespace ConsoleApp1
                 Console.WriteLine("3 - Умножить");
                 Console.WriteLine("4 - Разделить");
 
+
                 menu = Convert.ToInt32(Console.ReadLine());
 
                 Console.WriteLine("Ответ: ");
-                if (menu == 1) Console.WriteLine(a + b);         
+                if (menu == 1) Console.WriteLine(a + b);
                 if (menu == 2) Console.WriteLine(a - b);
                 if (menu == 3) Console.WriteLine(a * b);
-                if (menu == 4) Console.WriteLine(a / b);
+                if (menu == 4)
+                {
+                    if (b == 0) Console.WriteLine("На ноль делить нельзя!");
+                    else
+                    {
+                        Console.WriteLine(a / b);
+                    }
+                }
+                
+                
 
                 Console.WriteLine(" ");
             }
